@@ -1,0 +1,30 @@
+
+
+.contact-heading h1{
+    font-weight: 80;
+}
+.contact-heading h3{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #a39f9f;
+}
+.contact-heading p{
+    font-size: 20px;
+}
+
+
+.contact-us-container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+.contact{
+    font-size: 1rem;
+    font-weight: normal;
+    box-shadow: rgba(0,0,0,0.15) 0px 5px 15px 0px;
+    text-align: center;
+    background: #f9f7f7;
+   
+}
+
